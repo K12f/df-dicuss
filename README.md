@@ -6,6 +6,6 @@
 
 [点击进入](https://github.com/K12f/df-dicuss/discussions)
 
-## 价格分析
+## 经济日报
 
 [2024年11月5日](./物价分析/2024年11月5日.md)
